@@ -1,0 +1,279 @@
+#u651-3
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u652
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u655
+{
+	background-color: transparent;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	position: relative;
+}
+
+#accordionu1563
+{
+	border-color: #7F7F7F;
+	background-color: transparent;
+}
+
+#u1574-3
+{
+	border-color: #FFFFFF;
+	color: #999999;
+	text-align: right;
+	font-size: 20px;
+	line-height: 45px;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
+	background: transparent url("../images/visualeditor_-_icon_-_menusvg.png") no-repeat right center;
+	background-size: contain;
+}
+
+#u1574-3:active
+{
+	border-style: none;
+	background: transparent url("../images/visualeditor_-_icon_-_menusvg.png") no-repeat right center;
+	background-size: contain;
+}
+
+#u1574-3.AccordionPanelTabOpen
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 1px 1px 0px;
+	background: transparent url("../images/multiplication-symbol-icon-0910125830.png") no-repeat right center;
+	background-size: contain;
+}
+
+#u1574-3.AccordionPanelTabOpen p
+{
+	color: #4F4F4F;
+	visibility: inherit;
+	padding-left: 0px;
+	padding-right: 83px;
+	font-size: 20px;
+	text-align: right;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u1574
+{
+	padding-right: 83px;
+}
+
+#u1565
+{
+	border-color: #FFFFFF;
+	background-color: transparent;
+}
+
+#menuu1566
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1568
+{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #000000;
+	opacity: 0.61;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=61)";
+	filter: alpha(opacity=61);
+	position: relative;
+}
+
+#u1568:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1569-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1591
+{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #000000;
+	opacity: 0.61;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=61)";
+	filter: alpha(opacity=61);
+	position: relative;
+}
+
+#u1591:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1593-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1598
+{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #000000;
+	opacity: 0.61;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=61)";
+	filter: alpha(opacity=61);
+	position: relative;
+}
+
+#u1598:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1601-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1605
+{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #000000;
+	opacity: 0.61;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=61)";
+	filter: alpha(opacity=61);
+	position: relative;
+}
+
+#u1605:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1608-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1612
+{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #000000;
+	opacity: 0.61;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=61)";
+	filter: alpha(opacity=61);
+	position: relative;
+}
+
+#u1612:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1613-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1564,#u1567,#u1588,#u1595,#u1602,#u1609,#u1616
+{
+	background-color: transparent;
+}
+
+#u1617
+{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #000000;
+	opacity: 0.61;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=61)";
+	filter: alpha(opacity=61);
+	position: relative;
+}
+
+#u1617:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1568.MuseMenuActive,#u1591.MuseMenuActive,#u1598.MuseMenuActive,#u1605.MuseMenuActive,#u1612.MuseMenuActive,#u1617.MuseMenuActive
+{
+	background-color: #000000;
+}
+
+#u1618-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+.MenuItem,.AccordionPanelTab /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u654-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	color: #7F7F92;
+	font-size: 10px;
+	position: relative;
+}
+

@@ -1,0 +1,117 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sherrybian.com" resolutions="1x" timestamp="1476371763310">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-__.css" crc="399608788" ref="index:关于我们:储备项目:成员作品:长期合作:团队成员"/>
+    <file name="index.css" crc="340699539" ref="index"/>
+    <file name="____.css" crc="4131081508" ref="关于我们"/>
+    <file name="____4.css" crc="285217329" ref="储备项目"/>
+    <file name="____2.css" crc="504678345" ref="成员作品"/>
+    <file name="____3.css" crc="3853513729" ref="长期合作"/>
+    <file name="____1.css" crc="174137637" ref="团队成员"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="museutils.js" crc="183364071" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="webpro.js" crc="3803554875" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="成员作品"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="成员作品"/>
+    <file name="touchswipe.js" crc="4038331989" ref="成员作品"/>
+  </folder>
+  <folder name="images">
+    <file name="haitangguo.png" crc="4260343628" seo="true" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="menu-2.png" crc="36146429" seo="true" ref="index:关于我们:团队成员:成员作品:长期合作:储备项目"/>
+    <file name="visualeditor_-_icon_-_menusvg.png" crc="383144915" ref="index"/>
+    <file name="multiplication-symbol-icon-0910125830.png" crc="3803265032" ref="index"/>
+    <file name="u106-7.png" crc="3907829252" ref="index"/>
+    <file name="u171-4.png" crc="4187210524" ref="index"/>
+    <file name="award.png" crc="3785098738" seo="true" ref="index:团队成员"/>
+    <file name="u315-5.png" crc="4105859421" ref="index"/>
+    <file name="u261.png" crc="3939589143" ref="index"/>
+    <file name="video-camera.png" crc="3844996801" seo="true" ref="index:成员作品"/>
+    <file name="u335-6.png" crc="280610293" ref="index"/>
+    <file name="u262.png" crc="3939589143" ref="index"/>
+    <file name="handshake.png" crc="159889902" seo="true" ref="index:长期合作"/>
+    <file name="u348-5.png" crc="307964372" ref="index"/>
+    <file name="clapboard.png" crc="4073304659" seo="true" ref="index:储备项目"/>
+    <file name="u356-5.png" crc="31134342" ref="index"/>
+    <file name="photo-1458053688450-eef5d21d43b3.jpg" crc="4155279309" seo="true" ref="index"/>
+    <file name="u263.png" crc="4053529383" ref="index"/>
+    <file name="u671.png" crc="79440974" ref="index"/>
+    <file name="黑的.jpg" crc="4260973308" seo="true" ref="关于我们"/>
+    <file name="u693-7.png" crc="3907829252" ref="关于我们"/>
+    <file name="u694-4.png" crc="4187210524" ref="关于我们"/>
+    <file name="u696-10.png" crc="3957203551" ref="关于我们"/>
+    <file name="u824-5.png" crc="3989749823" ref="团队成员"/>
+    <file name="howong.png" crc="228821656" seo="true" ref="团队成员"/>
+    <file name="u756-4.png" crc="425741740" ref="团队成员"/>
+    <file name="螢幕快照 2016-10-13 上午15445.jpg" crc="257710980" seo="true" ref="团队成员"/>
+    <file name="u765-4.png" crc="4005486451" ref="团队成员"/>
+    <file name="u748-22.png" crc="368838610" ref="团队成员"/>
+    <file name="u764-29.png" crc="5491421" ref="团队成员"/>
+    <file name="clapperboard.png" crc="4005961461" seo="true" ref="团队成员"/>
+    <file name="u828-5.png" crc="3923172818" ref="团队成员"/>
+    <file name="螢幕快照 2016-10-13 上午20508.jpg" crc="206126773" seo="true" ref="团队成员"/>
+    <file name="u783-4.png" crc="194446061" ref="团队成员"/>
+    <file name="u782-21.png" crc="145709960" ref="团队成员"/>
+    <file name="螢幕快照 2016-10-13 上午21840.jpg" crc="4157863159" seo="true" ref="团队成员"/>
+    <file name="u792-8.png" crc="4289020529" ref="团队成员"/>
+    <file name="u793-4.png" crc="4244980191" ref="团队成员"/>
+    <file name="u851-6.png" crc="280610293" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午25656.jpg" crc="3991536057" seo="true" ref="成员作品"/>
+    <file name="blank.gif" crc="4208392903" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午30433.jpg" crc="103159847" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午30502.jpg" crc="4058044012" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午30453.jpg" crc="4082175690" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31520.jpg" crc="3875447643" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31513.jpg" crc="3792940068" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31645.jpg" crc="3936589402" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31653.jpg" crc="3846059526" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31700.jpg" crc="22816899" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31709.jpg" crc="4032653784" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午2565661x45.jpg" crc="3885209855" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午3043362x45.jpg" crc="18969561" seo="true" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午30502-crop-u926.jpg" crc="4059461335" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午30453-crop-u935.jpg" crc="329508713" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31520-crop-u1007.jpg" crc="3762123213" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31513-crop-u1016.jpg" crc="517030721" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31645-crop-u1074.jpg" crc="4277618937" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31653-crop-u1065.jpg" crc="355802525" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31700-crop-u1056.jpg" crc="4046420673" ref="成员作品"/>
+    <file name="螢幕快照 2016-10-13 上午31709-crop-u1047.jpg" crc="4021290847" ref="成员作品"/>
+    <file name="loading.gif" crc="3815509949" ref="成员作品"/>
+    <file name="u1139-5.png" crc="149953302" ref="长期合作"/>
+    <file name="螢幕快照 2016-10-13 下午122945.jpg" crc="144987415" seo="true" ref="长期合作"/>
+    <file name="螢幕快照 2016-10-13 下午123425.jpg" crc="142138726" seo="true" ref="长期合作"/>
+    <file name="螢幕快照 2016-10-13 下午123430.jpg" crc="27617393" seo="true" ref="长期合作"/>
+    <file name="u1217-5.png" crc="3890621778" ref="长期合作"/>
+    <file name="螢幕快照 2016-10-13 下午124052.jpg" crc="171871508" seo="true" ref="长期合作"/>
+    <file name="u1248-16.png" crc="374071646" ref="长期合作"/>
+    <file name="u1238-4.png" crc="1432143" ref="长期合作"/>
+    <file name="螢幕快照 2016-10-13 下午124505.jpg" crc="4044297716" seo="true" ref="长期合作"/>
+    <file name="u1250-14.png" crc="4242161343" ref="长期合作"/>
+    <file name="u1252-4.png" crc="3883595598" ref="长期合作"/>
+    <file name="螢幕快照 2016-10-13 下午125246.jpg" crc="437085432" seo="true" ref="长期合作"/>
+    <file name="u1254-12.png" crc="4074883699" ref="长期合作"/>
+    <file name="u1218-8.png" crc="191540929" ref="长期合作"/>
+    <file name="u1241-8.png" crc="50079536" ref="长期合作"/>
+    <file name="u1253-6.png" crc="4169538376" ref="长期合作"/>
+    <file name="u1301-5.png" crc="31134342" ref="储备项目"/>
+    <file name="u1306-4.png" crc="477556035" ref="储备项目"/>
+    <file name="u1331-24.png" crc="134047996" ref="储备项目"/>
+    <file name="螢幕快照 2016-10-13 下午11030.jpg" crc="4043789649" seo="true" ref="储备项目"/>
+    <file name="u1342-4.png" crc="4018020755" ref="储备项目"/>
+    <file name="u1345-16.png" crc="3966751348" ref="储备项目"/>
+    <file name="螢幕快照 2016-10-13 下午11845.jpg" crc="3870470624" seo="true" ref="储备项目"/>
+  </folder>
+  <file name="index.html" crc="43918898" seo="true" mt="1476371132884" redirect="true"/>
+  <file name="关于我们.html" crc="362895710" seo="true" mt="1476371132886" redirect="true"/>
+  <file name="团队成员.html" crc="408318774" seo="true" mt="1476371132882" redirect="true"/>
+  <file name="成员作品.html" crc="4273178610" seo="true" mt="1476371132882" redirect="true"/>
+  <file name="长期合作.html" crc="4026061386" seo="true" mt="1476371132882" redirect="true"/>
+  <file name="储备项目.html" crc="4028725094" seo="true" mt="1476371132882" redirect="true"/>
+</manifest>
